@@ -1,2 +1,2 @@
 # simple_calculator
-#Done by using Html #css #Bootstrap
+#Done by using Html #css
