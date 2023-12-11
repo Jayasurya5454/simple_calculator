@@ -1,2 +1,2 @@
 # simple_calculator
-#Done by using Html #css
+# My first project using Html #css
